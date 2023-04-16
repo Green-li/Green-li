@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Green-li.
-- 👀 I’m interested in NLP(including intent detection, knowledge embedding and medical AI system).
-- 🌱 I’m currently learning **Computer Vision**, as well as image processing.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in NLP(including intent detection, knowledge embedding and large language model).
+- 🌱 I’m currently learning **Large language model**.
+- 💞️ I’m looking to collaborate on LLM applications on specific domains.
 - 📫 How to reach me ...
 
 <!---
